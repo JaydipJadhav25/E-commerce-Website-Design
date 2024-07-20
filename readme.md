@@ -4,4 +4,4 @@
 
 <image src="/Jaydip Jadhav - Website Design and Development Internship - Internship_page-0001.jpg">
 
-<image src="/Jaydip Jadhav - Website Design and Development Internship - Training_page-0001.jpg>
+<image src="/Jaydip Jadhav - Website Design and Development Internship - Training_page-0001.jpg">
